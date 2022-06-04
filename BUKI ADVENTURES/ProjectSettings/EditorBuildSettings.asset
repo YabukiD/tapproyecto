@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/00 Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/01 LevelEasy.unity
+    guid: d34a99dac1860e14c9cfff34a68cc0dd
+  - enabled: 1
+    path: Assets/Scenes/02 LevelTime.unity
+    guid: 3134826c354ebb442b2114388d484c6d
+  - enabled: 1
+    path: Assets/Scenes/03 LevelCherries.unity
+    guid: ea695c076715a744699c6d30a1faa231
+  - enabled: 1
+    path: Assets/Scenes/04 LevelHard.unity
+    guid: 89c3eeaec5e6d4140aaf1c509282ec7f
+  m_configObjects: {}
